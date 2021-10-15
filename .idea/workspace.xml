@@ -5,7 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e76b6ae5-f90b-4204-af75-4277564f99ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/estruturadedados/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-attribution-and-reference/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-attribution-and-reference/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-attribution-and-reference/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-attribution-and-reference/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-attribution-and-reference/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-attribution-and-reference/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-attribution-and-reference/src/main/java/com/project/atribuicaoreferencia/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-attribution-and-reference/src/main/java/com/project/atribuicaoreferencia/MeuObj.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-attribution-and-reference/target/class/com/estruturadedados/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-node-and-thread-concept/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-node-and-thread-concept/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-node-and-thread-concept/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-node-and-thread-concept/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-node-and-thread-concept/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-node-and-thread-concept/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-node-and-thread-concept/src/main/java/com/projectnode/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-node-and-thread-concept/src/main/java/com/projectnode/No.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project-node-and-thread-concept/target/class/com/projectnode/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +62,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1634244438131</updated>
-      <workItem from="1634244439341" duration="451000" />
+      <workItem from="1634244439341" duration="827000" />
+      <workItem from="1634246695205" duration="208000" />
+      <workItem from="1634247127409" duration="53000" />
     </task>
     <servers />
   </component>
@@ -61,5 +81,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
