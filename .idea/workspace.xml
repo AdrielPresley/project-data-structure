@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e76b6ae5-f90b-4204-af75-4277564f99ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/project-attribution-and-reference/target/class/com/project/atribuicaoreferencia/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project-attribution-and-reference/target/class/com/project/atribuicaoreferencia/MeuObj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +49,8 @@
       <workItem from="1634247127409" duration="53000" />
       <workItem from="1634300356370" duration="320000" />
       <workItem from="1634301358260" duration="250000" />
-      <workItem from="1634301970907" duration="453000" />
+      <workItem from="1634301970907" duration="499000" />
+      <workItem from="1634427018794" duration="200000" />
     </task>
     <servers />
   </component>
