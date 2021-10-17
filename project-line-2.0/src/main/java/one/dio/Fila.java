@@ -50,7 +50,7 @@ public class Fila {
             stringRetorno = "null";
         } else {
             while(true) {
-                stringRetorno = stringRetorno + "[No{objeto=" + noAuxiliar.getObject() + "}]--->";
+                stringRetorno = stringRetorno + "[No{objeto=" + noAuxiliar.getRefNo() + "}]--->";
                 if (noAuxiliar.getRefNo() == null) {
                     stringRetorno = stringRetorno + "null";
                     break;

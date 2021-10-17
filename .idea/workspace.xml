@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e76b6ae5-f90b-4204-af75-4277564f99ab" name="Changes" comment="" />
+    <list default="true" id="e76b6ae5-f90b-4204-af75-4277564f99ab" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-line-2.0/src/main/java/one/dio/Fila.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-line-2.0/src/main/java/one/dio/Fila.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-line/src/main/java/one/dio/Fila.java" beforeDir="false" afterPath="$PROJECT_DIR$/project-line/src/main/java/one/dio/Fila.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +36,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -50,6 +61,7 @@
       <workItem from="1634301970907" duration="499000" />
       <workItem from="1634427018794" duration="200000" />
       <workItem from="1634427859630" duration="53000" />
+      <workItem from="1634478174447" duration="1530000" />
     </task>
     <servers />
   </component>
