@@ -23,8 +23,8 @@ public class Fila<T> {
                 noAuxiliar = primeiroNo;
             }
 
-            noAuxiliar.setRefNo((No)null);
-            return primeiroNo.getObject();
+            noAuxiliar.setRefNo(null);
+            return (T) primeiroNo.getObject();
         }
     }
 
@@ -36,7 +36,7 @@ public class Fila<T> {
             for(primeiroNo = this.refNoEntradaFila; primeiroNo.getRefNo() != null; primeiroNo = primeiroNo.getRefNo()) {
             }
 
-            return primeiroNo.getObject();
+            return (T) primeiroNo.getObject();
         }
     }
 
